@@ -15,7 +15,7 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <mypro.spring.version>5.1.8.RELEASE</mypro.spring.version>
+    <mypro.spring.version>5.2.20.RELEASE</mypro.spring.version>
   </properties>
 
   <dependencies>
